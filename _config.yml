@@ -4,7 +4,7 @@ title: "Anjana Gururaj"
 description: "What's up?"
 keywords: ""
 author: anjanagururaj
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 include: ["_pages"]
 favicon: "assets/images/logo.png"
