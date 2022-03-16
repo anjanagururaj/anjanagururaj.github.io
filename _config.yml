@@ -1,7 +1,10 @@
 # Site settings
-title: Modern Blog
-description: Modern-Blog A Elegant template for Jekyll
-keywords: Modern, Blogging, Fun
-author: Wferr
+title: Anjana Gururaj
+description: What's up?
+keywords: 
+author: anjanagururaj
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
+include: ["_pages"]
+favicon: "assets/images/logo.png"
+permalink: /:title/
