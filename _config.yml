@@ -1,15 +1,5 @@
-# Site settings
-name: "Anjana Gururaj"
-title: "Anjana Gururaj"
-description: "What's up?"
-keywords: ""
-author: anjanagururaj
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-include: ["_pages"]
-favicon: "assets/images/logo.png"
-permalink: /:title/
-google_analytics: ""
-disqus: ""
-mailchimp-list: ""
-remote_name: "inded/Jekyll_modern-blog"
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Anjana Gururaj
+description: ......
